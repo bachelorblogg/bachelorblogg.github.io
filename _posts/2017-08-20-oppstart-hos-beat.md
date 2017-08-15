@@ -2,6 +2,7 @@
 layout: post
 title:  Oppstart 
 category:  TEST arbeidspraksis
+description: TEST av oppsett for arbeidspraksisblogg 
 ---
 
 # TEST
