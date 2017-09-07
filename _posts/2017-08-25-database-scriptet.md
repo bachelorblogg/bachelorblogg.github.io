@@ -4,7 +4,7 @@ title: Databasescriptet
 category: Arbeidspraksis hos Beat
 ---
 
-Jeg har fått i oppgave å skrive et script som opererer mot en
-database. Et script som skal automatisere det å katalogisere nye spor i
-databasen. Dette virker som en gøy oppgave og jeg har bestemt meg for å
-skrive scriptet i haskell.
+Min første oppgave er å skrive et script som opererer mot en
+database. Scriptet skal hente ut informasjon fra spørringer
+og kunne legge inn denne informasjonen i andre spørringer.
+Jeg har bestemt meg for å skrive scriptet i haskell.
