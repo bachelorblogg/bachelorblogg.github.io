@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Databasescriptet 
+title: Database og Haskell 
 category: Arbeidspraksis hos Beat
 ---
 
