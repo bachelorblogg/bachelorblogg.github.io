@@ -6,7 +6,7 @@ category: Arbeidspraksis hos Beat
 
 ![]({{site.baseurl}}/assets/img/curryHaskell.jpg)
 
-Å utvikle i Haskell tvinger meg til å tenke andrerledes enn jeg er
+Å utvikle i Haskell tvinger meg til å tenke annerledes enn jeg er
 vandt til når jeg programmerer. Det blir mye rekursjon og jeg kan 
 ikke falle tilbake på vandte måter å løse ting med vha state og loops.
 
