@@ -4,7 +4,7 @@ title: Haskell i praksis
 category: Arbeidspraksis hos Beat
 ---
 
-Å lage programvare som skal brukes til en faktisk oppgave er
+Å lage programvare som skal løse en reell oppgave er
 veldig inspirerende. De siste dagene har jeg selv om jeg ikke har
 vært i praksis jobbet med Haskell-bibliotek for å koble til databaser.
 Jeg har bestemt meg for at jeg liker Opaleye best og satt opp en
