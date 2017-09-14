@@ -13,3 +13,6 @@ utviklingsmiljø som en sandkasse og så eksportere dette til en annen
 maskin med to enkle kommandoer.
 
 [stack]: https://wiki.haskell.org/Stack
+
+I dag har derfor satt meg inn i Stack, og brukt Stack til å sette opp
+utviklingsmiljøet til databasescriptet mitt.
