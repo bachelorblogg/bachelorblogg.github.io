@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Arbeidspraksisblog 
+title: Arbeidspraksisblogg
 email: thomas_laammas@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   En blog om og fra min arbeidspraksis hos Beat
