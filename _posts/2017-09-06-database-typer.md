@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Haskell
+title: groupBy _ _ $ sortBy _ _
 category: Arbeidspraksis hos Beat
 ---
 

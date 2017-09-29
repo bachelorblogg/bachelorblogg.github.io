@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stack
+title: Utviklingsmiljø
 category: Arbeidspraksis hos Beat
 ---
 
